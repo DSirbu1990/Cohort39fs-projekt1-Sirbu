@@ -1,4 +1,4 @@
-import SimponsCard from "../../components/SimponsCard/SimponsCard";
+import SimponsCard from "../../components/SimponsCard/SimposCard";
 import "./styles.css";
 
 function Homework02() {
