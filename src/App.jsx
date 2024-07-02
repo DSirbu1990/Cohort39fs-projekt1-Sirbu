@@ -9,13 +9,11 @@ import Lesson04 from "./lessons/Lesson04/Lesson04";
 import Homework02 from "./homeworks/Homework02/Homework02";
 import Homework03 from "./homeworks/Homework03/Homework03";
 
-//Consultations
-import Consultation01 from "./consultations/Consultation01/Consultation01";
+
 
 function App() {
   return (
     <div className="App">
-      {/* <Consultation01 /> */}
       {/* <Homework02 /> */}
       {/* <Homework03 /> */}
       {/* <Lesson02 /> */}
